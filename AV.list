@@ -1,0 +1,26 @@
+# NAME: Nvidia
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-06-06 09:17:46
+# DOMAIN-SUFFIX: 62
+# TOTAL: 62
+DOMAIN-SUFFIX,geforce.cn
+DOMAIN-SUFFIX,geforce.co.kr
+DOMAIN-SUFFIX,geforce.co.uk
+DOMAIN-SUFFIX,geforce.com
+DOMAIN-SUFFIX,geforce.com.tw
+DOMAIN-SUFFIX,gputechconf.cn
+DOMAIN-SUFFIX,gputechconf.co.kr
+DOMAIN-SUFFIX,gputechconf.com
+DOMAIN-SUFFIX,gputechconf.com.au
+DOMAIN-SUFFIX,gputechconf.com.tw
+DOMAIN-SUFFIX,gputechconf.eu
+DOMAIN-SUFFIX,gputechconf.in
+DOMAIN-SUFFIX,gputechconf.jp
+DOMAIN-SUFFIX,nvda.d2.sc.omtrdc.net
+DOMAIN-SUFFIX,nvidia.asia
+DOMAIN-SUFFIX,nvidia.at
+DOMAIN-SUFFIX,nvidia.be
+DOMAIN-SUFFIX,nvidia.ch
+DOMAIN-SUFFIX,nvidia.cn
+DOMAIN-SUFFIX,nvidia.co.at
